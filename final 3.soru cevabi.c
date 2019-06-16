@@ -15,7 +15,7 @@ int fill_diaogonal(double a[][5], int row, int column){  // Ya da matrix[ROW][CO
              if(i==j) {     //Diagonal Matris icin kosul            
              a[i][j]=1;             
              } 
-            if(j==row-i) {        //Antidiagonal Matris icin kosul        
+            if(row==i+j) {        //Antidiagonal Matris icin kosul        
             a[i][j]=-1;             
             } 
  
