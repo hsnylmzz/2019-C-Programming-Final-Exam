@@ -20,4 +20,4 @@
    }
           
     // Not : 1. Selcuk Hocanın Hata bulma sorusunda puan almaniz icin satir tamamen dogru duzeltilmis olmalidir.
-             2. Hatayi dogru bulup duzeltmezse veya yanlis duzeltilirse veya hatayi yanlis yerde bulursaniz puan alamazsiniz.
+    // Not : 2. Hatayi dogru bulup duzeltmezseniz veya yanlis duzeltilirseniz veya hatayi yanlis yerde bulursaniz puan alamazsiniz.
