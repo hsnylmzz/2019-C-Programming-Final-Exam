@@ -5,7 +5,7 @@
  
 double m[ROW][COLUMN] = {{1,2,3,4,5}, {4,5,6,7,8},{8,7,6,5,4},{7,6,5,4,3},{6,5,4,3,2}}; 
  
-int fill_diaogonal(double a[][5], int row, int column){  // Ya da matrix[ROW][COLUMN] diye tanimlasanizda olur
+int fill_diaogonal(double a[][COLUMN], int row, int column){  // Ya da matrix[ROW][COLUMN] diye tanimlasanizda olur
  
     if(row != column) return -1; //Error  //Kare Matrise uygun degilse -1 dondurur
  
